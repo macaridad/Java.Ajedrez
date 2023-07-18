@@ -1,0 +1,28 @@
+♔♕♖♗♘♙ Como se juega al ajedrez ♚♛♜♝♞♟
+
+El ajedrez es un juego para dos jugadores en un tablero con 32 piezas (16 para cada jugador) de seis tipos un rey, una dama, dos torres, dos alfiles, dos caballos y ocho peones.
+Cada tipo de pieza se mueve de manera diferente. 
+El objetivo del juego es dar jaque mate, es decir, amenazar al rey del oponente con la captura hasta que sea inevitable. 
+Los juegos no necesariamente terminan con jaque mate; hay varias formas de que el final de la partida termine en tablas (empate).
+
+El tablero de ajedrez es un cuadrado dividido en 64 casillas (denominadas escaques) también cuadradas, con distribución 8 x 8, alternando claras y oscuras. 
+Las casillas o escaques de color claro se llaman blancas y las de color oscuro negras.
+Las ocho líneas verticales de escaques se denominan columnas y las ocho líneas horizontales de escaques se denominan filas. 
+Se denomina diagonal a una sucesión de escaques del mismo color en línea recta que va desde un borde del tablero hasta otro adyacente. 
+
+Las filas
+Es decir, desde el punto de vista del jugador blanco, las filas están numeradas de la siguiente forma: 1, 2, 3, 4, 5, 6, 7, 8; 
+la fila más baja (o más próxima al jugador de blancas) tiene el número 1, y la fila superior (más próxima al jugador de negras) tiene el número 8.
+
+Las columnas
+Las columnas se denominan, de izquierda a derecha, a, b, c, d, e, f, g, h. 
+Por tanto, todas las casillas se definen con una letra y un número, por ejemplo, la casilla de la esquina inferior izquierda (del blanco) se llama “a1”.
+
+♔♕♖♗♘♙ Consideraciones ♚♛♜♝♞♟
+Los jugadores mueven, alternadamente, una de sus piezas, a excepción del caso del enroque en que se mueven dos.
+*La partida comienza siempre por una jugada del blanco y, después, responde el negro, así hasta que acaba la partida.
+*Si un escaque está ocupado por una pieza propia, no se puede poner otra; en cambio, sí es posible ocupar un escaque que está ocupado por una pieza adversaria, mediante la captura de esa pieza: dicha pieza propia ocupará ese escaque y la pieza adversaria se retirará del juego; este hecho se denomina capturar la pieza contraria por parte de la nuestra.
+*Cada pieza tiene su manera de moverse, que se conserva a lo largo de toda la partida, incluyendo los movimientos especiales: captura al paso del peón y enroque.
+*Las únicas piezas que pueden saltar son los caballos,11​ o también las torres en el caso excepcional del enroque en que salta por encima del rey.12​ Por saltar se entiende que una pieza pase en su movimiento por encima de otra pieza, ya sea adversaria o del mismo bando.
+*El rey del adversario nunca se puede capturar. Si tras un movimiento, el rey adversario pasa a estar en riesgo de captura, se dice que está en jaque. En ese caso el jugador adversario debe realizar cualquier movimiento que saque de jaque a su rey, siendo ilegal cualquier movimiento que no involucre dicha acción. Si el rey está en jaque y no hay ningún movimiento legal que permita sacar al rey del jaque, se dice que es jaque mate, perdiendo la partida el jugador que tenga el rey amenazado de captura. La partida finaliza en el momento en el que se consigue jaque mate, sin realizar la captura del rey adversario.
+*Con excepción de los peones, las piezas pueden moverse "hacia atrás", es decir en dirección a su respectivo jugador.

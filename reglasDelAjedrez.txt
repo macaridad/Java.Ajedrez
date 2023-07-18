@@ -1,0 +1,50 @@
+♔♕♖♗♘♙ Reglas del juego de ajedrez ♚♛♜♝♞♟
+
+Estas reglas se aplican a los juegos disputados "sobre el tablero".
+
+ACTO DE MOVER LAS PIEZAS
+El movimiento de las piezas debe hacerse con una sola mano. 
+Una vez que la mano suelta la pieza después de haberla movido, el movimiento puede deshacerse cuando ambos jugadores estén de acuerdo.
+
+Al enrocar, el jugador debe mover primero el rey con una mano y luego mover la torre con la misma mano.
+
+REGLA DE LA PIEZA TOCADA
+En una partida seria, si un jugador toca una de sus piezas durante su turno como si tuviese la intención de moverla, 
+entonces necesariamente esa pieza deberá ser movida si puede ser movida con un movimiento legal. 
+Esto no se aplica por ejemplo si el movimiento de esa pieza dejara al rey en jaque, ya que ese movimiento sería ilegal. 
+Mientras que la mano no haya dejado la pieza en un nuevo escaque, esta última se puede colocar en cualquier escaque accesible.
+Si tocara varias piezas propias, la primera pieza tocada que pueda realizar un movimiento legal es la que debe ser movida.
+
+Si el jugador toca una de las piezas del oponente, debe capturar la primera pieza del oponente tocada que pudiera ser capturada con un movimiento legal.
+Si toca una pieza propia y otra del oponente, o viceversa, debe capturar la pieza del oponente con la propia siempre que el movimiento sea legal. 
+Si no fuera posible, deberá mover o capturar la primera pieza tocada (propia o del oponente) siempre con un movimiento legal. 
+Si ninguna de las piezas tocadas (propias o del oponente) pudiera ser movida o capturada con un movimiento legal, 
+el jugador puede realizar cualquier otro movimiento y no habría sanciones
+
+Para el enroque, el rey debe ser la primera pieza que se juegue. Si el jugador toca primero su rey y luego su torre, 
+debe realizar el enroque con esa torre si esto fuese posible. Si toca primero la torre y luego el rey, no podrá enrocarse, 
+ya que la primera pieza tocada debería haber sido el rey. En este caso el jugador deberá mover la torre, por ser esta la primera pieza tocada. 
+Si el jugador completa el movimiento de dos escaques con el Rey sin tocar la torre, el jugador debe mover la torre correcta para el enroque. 
+Si el jugador empieza el enroque, pero este es ilegal, tiene que hacer otro movimiento con el Rey si es posible, incluyendo realizar el enroque con la otra torre.
+
+Si un jugador desea tocar la pieza con la intención de ajustarla en el escaque del tablero, el jugador debe primero advertir al oponente de su intención diciendo
+ "Compongo". Una vez que se inicia el juego, solamente el jugador que tenga el turno puede tocar las piezas en el tablero
+
+REGISTRO DE MOVIMIENTOS 
+Cada escaque del tablero se identifica con un único par de una letra y un número. Las filas verticales son señaladas hasta la h, 
+desde la izquierda de las blancas (es decir, el flanco de dama) hasta la derecha de las mismas. Del mismo modo, los rangos horizontales se numeran del 1 al 8, 
+a partir de la más cercana a lado de las blancas del tablero. Cada escaque del tablero, a continuación, se identifica de forma única por su letra de fila y número de rango.
+El rey blanco, por ejemplo, inicia el juego en el escaque e1. El caballo negro en b8 puede pasar a a6 o a c6.
+
+En una competencia formal, cada jugador está obligado a registrar cada movimiento en la notación de ajedrez para aclarar las disputas sobre posiciones ilegales,
+desbordamiento de tiempo de juego, y hacer afirmaciones de tablas por la regla de 50 movimientos o repetición de la posición. 
+La notación algebraica es el estándar aceptado para el registro de los partidos de hoy.
+
+ANOTACIONES FINALES
+En torneos, y a efecto de computar los resultados, se otorga al ganador de una partida un punto, medio punto a cada jugador que ha hecho tablas,
+y cero puntos al perdedor de una partida.
+
+APLAZAMIENTO
+Si hay que aplazar una partida, el árbitro debe advertir al jugador que esté en juego que anote la jugada secreta, 
+(si no lo hace la jugada que haga en el tablero se considera la jugada secreta y lo debe anotar como tal en la planilla), una vez escrita debe parar el reloj,
+ mientras tanto que no pare el reloj puede cambiar la jugada secreta.
